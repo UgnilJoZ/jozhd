@@ -10,7 +10,7 @@ The textures are at https://github.com/UgnilJoZ/jozhd.
 License
 --------
 For the screenshots: WTFPL.
-For the textures: See 
+For the textures: See https://github.com/UgnilJoZ/jozhd/blob/master/Readme.md.
 
 Screenshots
 -----------
