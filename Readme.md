@@ -16,3 +16,6 @@ Screenshots
 -----------
 
 ![Screen1](https://github.com/UgnilJoZ/jozhd/blob/screens/Screen1.png)
+![Screen2](https://github.com/UgnilJoZ/jozhd/blob/screens/Screen2.png)
+![Screen3](https://github.com/UgnilJoZ/jozhd/blob/screens/Screen3.png)
+![Screen4](https://github.com/UgnilJoZ/jozhd/blob/screens/Screen4.png)
