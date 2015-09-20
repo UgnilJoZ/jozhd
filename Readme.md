@@ -3,14 +3,16 @@ JoZHD
 
 JoZHD is a texture pack for minetest. It is mostly at 1024x1024px.
 
-Download
----------
-
-One of the two:
-* `git clone git https://github.com/UgnilJoZ/jozhd.git`
-* `Download https://github.com/UgnilJoZ/jozhd/archive/master.zip
+**This is the 'Screens' branch which is used to store screenshots.**
+--------------------------------------------------------------------
+The textures are at https://github.com/UgnilJoZ/jozhd.
 
 License
 --------
+For the screenshots: WTFPL.
+For the textures: See 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">JozHD</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/UgnilJoZ/jozhd" property="cc:attributionName" rel="cc:attributionURL">Joz</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="joz@spline,de" rel="cc:morePermissions">joz@spline.de</a>.
+Screenshots
+-----------
+
+![Screen1](https://github.com/UgnilJoZ/jozhd/blob/screens/Screen1.png)
