@@ -1,14 +1,18 @@
 JoZHD
 ======
 
-JoZHD is a texture pack for minetest. It is mostly at 1024x1024px.
+JoZHD is a texture pack for minetest. It is mostly at 1024x1024px (but also 512x512 is present).
 
 Download
 ---------
 
 One of the two:
 * `git clone git https://github.com/UgnilJoZ/jozhd.git`
-* `Download https://github.com/UgnilJoZ/jozhd/archive/master.zip
+* Download https://github.com/UgnilJoZ/jozhd/archive/master.zip
+
+Preview
+-----------
+For screenshots, see https://github.com/UgnilJoZ/jozhd/blob/screens/Readme.md.
 
 License
 --------
